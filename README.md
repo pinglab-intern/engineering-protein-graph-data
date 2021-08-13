@@ -15,5 +15,4 @@ Extracts from Reactome using REST
 ## Uniprot-KB Extraction:
 Extracts from uniprot using REST, Bioservices Documentation
 
-# Author
-Irsyad Adam, 405407035
+### Author: Irsyad Adam, 405407035
