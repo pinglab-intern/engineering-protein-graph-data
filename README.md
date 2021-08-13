@@ -1,11 +1,19 @@
-# Project Description
-Using Text Mining, Knowledge Graph Databases, and Deep Learning Algorithms to construct a sequence predictive model for Drug to Cardiovascular Disease Association.
+# File Description:
 
-# Set-up
-Using SemRep to extract relevant Subject, Predicate, Object triples from publications pertaining to oxidative stress and related drugs. Construct a knowledge graph database that holds all related information, including relationships between drug and effects on cardiovascular disease. Extract .csv file of drugs and their respective effects, and clean data.
+## Cardiovascular-KG:
+Project to build a Knowledge graph with unified cardiac proteomes
 
-# Run Process
-Build an association matrix using the Keras Tokenizer class and construct a sequence predictive model for Cardiovascular Disease and drug associations using Tensorflow and Neural Networks.
+## Neo4j Python Driver: 
+Scripts that use the python driver in Neo4j. Includes Centrality Algorithms, Neo4j import/query commands, Neo4j data extraction to csv using python
+
+## DrugBank-Extraction:
+Scripts to extract from Drugbank, includes script that parses from drugbank xml
+
+## Reactome Extraction:
+Extracts from Reactome using REST
+
+## Uniprot-KB Extraction:
+Extracts from uniprot using REST, Bioservices Documentation
 
 # Author
 Irsyad Adam, 405407035
