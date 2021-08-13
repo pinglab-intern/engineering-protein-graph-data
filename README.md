@@ -4,7 +4,7 @@
 Project to build a Knowledge graph with unified cardiac proteomes
 
 ## Neo4j Python Driver: 
-Scripts that use the python driver in Neo4j. Includes Centrality Algorithms, Neo4j import/query commands, Neo4j data extraction to csv using python
+Scripts that use the python driver in Neo4j. Includes Centrality Algorithms, Neo4j import/query commands via python using transaction bookmarking, Neo4j data extraction to csv using python
 
 ## DrugBank-Extraction:
 Scripts to extract from Drugbank, includes script that parses from drugbank xml
