@@ -7,6 +7,6 @@ Iterates through the drugs in drugbank, and cross references unified cardiac pro
 Extracting all Participants from Metabolism of Proteins->Protein Repair
 
 ### Extracting_PMIDs.ipynb:
-Library for extracting pmids given a unid
+Library for extracting pmids given either uniprot ID or drugbank ID
 
 
